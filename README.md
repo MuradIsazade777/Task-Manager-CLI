@@ -12,7 +12,6 @@ It allows you to manage your daily tasks efficiently by adding, listing, complet
 - Mark tasks as completed.
 - Delete tasks by ID.
 - Pure TypeScript implementation (no HTML, CSS, or frontend dependencies).
-
 ---
 
 ## Installation

@@ -3,8 +3,6 @@
 📝 **Task Manager CLI** is a simple command-line interface (CLI) application built entirely with **TypeScript**.  
 It allows you to manage your daily tasks efficiently by adding, listing, completing, and deleting tasks directly from the terminal.
 
----
-
 ## Features
 
 - Add tasks with a simple command.
